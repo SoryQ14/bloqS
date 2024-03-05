@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo bloqueante en node.js, jsjs",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoryQ14/bloqS.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "Soraya Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoryQ14/bloqS/issues"
+  },
+  "homepage": "https://github.com/SoryQ14/bloqS#readme"
+}
